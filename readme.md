@@ -1,1 +1,0 @@
-[![Build Status](https://app.travis-ci.com/Pururu96/bootcamp-terminal-tests.svg?branch=main)](https://app.travis-ci.com/Pururu96/bootcamp-terminal-tests)
